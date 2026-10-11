@@ -21,5 +21,5 @@ I'm interested in understanding how software works behind the scenes, from writi
 
 ### 🌐 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/)
-- 📧 Email: [Add your professional email](mailto:your-email@example.com)
+- 💼 LinkedIn:
+- 📧 Email: ahmadmashal035@gmail.com
